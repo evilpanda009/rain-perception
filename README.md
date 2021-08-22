@@ -2,6 +2,7 @@
   
 ## Semantic Segmentation  
 - unet
+- deeplabv3_resnet
 
 
 ## Object Detection
