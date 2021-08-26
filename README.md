@@ -1,8 +1,13 @@
 # rain-perception  
   
 ## Semantic Segmentation  
+First get an dataset of indoor images  
+  
+#### Models:  
 - unet
-- deeplabv3_resnet
+- deeplabv3_resnet101 ( better than other pretrained models of torchvision)
+- https://github.com/qubvel/segmentation_models.pytorch
+
 
 
 ## Object Detection
