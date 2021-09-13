@@ -15,7 +15,9 @@ https://pytorch.org/vision/stable/datasets.html
 https://arxiv.org/abs/2011.06961
 
 #### Colab:
-https://colab.research.google.com/drive/1DlcePFxQpCKik3S_u1Fh7HQBWPSaGdcT#scrollTo=w75dQwIrUOtD
+https://colab.research.google.com/drive/1DlcePFxQpCKik3S_u1Fh7HQBWPSaGdcT#scrollTo=w75dQwIrUOtD  
+  
+MIT AED20K pretrained model: https://colab.research.google.com/drive/1hMIudLuKZ9z0rhcpd6znjJGeFdsJ3OMr#scrollTo=TOCyT-izvOnL
 
 
 
