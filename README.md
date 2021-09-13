@@ -6,6 +6,7 @@ First get a dataset of indoor images
 #### Models:  
 - unet
 - deeplabv3_resnet101 ( better than other pretrained models of torchvision)
+- ### https://github.com/CSAILVision/semantic-segmentation-pytorch
 
   
 #### Finetuning pretrained network on custom dataset:
@@ -17,7 +18,7 @@ https://arxiv.org/abs/2011.06961
 #### Colab:
 https://colab.research.google.com/drive/1DlcePFxQpCKik3S_u1Fh7HQBWPSaGdcT#scrollTo=w75dQwIrUOtD  
   
-MIT AED20K pretrained model: https://colab.research.google.com/drive/1hMIudLuKZ9z0rhcpd6znjJGeFdsJ3OMr#scrollTo=TOCyT-izvOnL
+### MIT AED20K pretrained model: https://colab.research.google.com/drive/1hMIudLuKZ9z0rhcpd6znjJGeFdsJ3OMr#scrollTo=TOCyT-izvOnL
 
 
 
