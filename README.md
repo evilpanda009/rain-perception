@@ -23,7 +23,7 @@ https://arxiv.org/abs/2011.06961
 ## Colab:
  
   
-### MIT AED20K pretrained model: https://colab.research.google.com/drive/1hMIudLuKZ9z0rhcpd6znjJGeFdsJ3OMr#scrollTo=TOCyT-izvOnL  
+### MIT AED20K pretrained model: https://colab.research.google.com/drive/1HjNN0sB94f219TjQcmKg48Bl9YaTxwub
 
 #### Deeplabv3 experimental : https://colab.research.google.com/drive/1DlcePFxQpCKik3S_u1Fh7HQBWPSaGdcT?usp=sharing
 
