@@ -37,3 +37,9 @@ https://arxiv.org/abs/2011.06961
 ## Instance Segmentation
 - Yolo ?
 - Mask R-CNN  
+
+## Video 
+
+
+https://github.com/evilpanda009/rain-perception/assets/70006069/7f42224e-3ea8-4009-8487-c01a7372417c
+
